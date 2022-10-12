@@ -6,3 +6,46 @@
 html {
   font-size: 62.5%;
 }
+body {
+  /* color: white; */
+  font-size: 1.8rem;
+  background: E5E5E5;
+}
+.navigation_section {
+  display: flex;
+  /* justify-content: space-between; */
+}
+.navigation_section_text {
+  height: 28px;
+  width: 109px;
+  margin-top: 15.4px;
+  margin-left: 120.5px;
+  margin-right: 258.16px;
+}
+.navigation_section_list {
+  display: flex;
+  list-style: none;
+  margin-top: 18.78px;
+  margin-right: 258.16px;
+}
+.navigation_section_list li {
+  margin-right: 45.31px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0rem;
+  text-align: left;
+}
+.navigation_section_search_lock_container {
+  margin-top: 17px;
+}
+.navigation_section_search {
+  width: 23px;
+  height: 23px;
+  margin-right: 21px;
+}
+.navigation_section_lock {
+  width: 2.3rem;
+  height: 2.3rem;
+}
